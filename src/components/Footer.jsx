@@ -6,8 +6,8 @@ function Footer() {
       </p>
 
       <div>
-        <a href="#">LinkedIn</a>
-        <a href="#">GitHub</a>
+        <a href="https://www.linkedin.com/in/sadhitabarman/">LinkedIn</a>
+        <a href="https://github.com/SadhitaBarman/">GitHub</a>
       </div>
     </footer>
   );

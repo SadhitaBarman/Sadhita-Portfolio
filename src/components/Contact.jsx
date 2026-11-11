@@ -18,7 +18,7 @@ function Contact() {
         </p>
 
         <a
-          href="mailto:your-email@example.com"
+          href="mailto:sadhitabarman810@gmail.com"
           className="contact-button"
         >
           GET IN TOUCH ↗
